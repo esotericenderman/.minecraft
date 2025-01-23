@@ -53,7 +53,7 @@ incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","bettera
 lastServer:
 lang:en_gb
 chatVisibility:0
-chatOpacity:0.4515845070422535
+chatOpacity:0.44788732394366215
 chatLineSpacing:0.0
 textBackgroundOpacity:0.018309859154929737
 backgroundForChatOnly:false
@@ -181,7 +181,7 @@ key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_key.spyglass-improvements.use:key.keyboard.x
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.25
+soundCategory_music:0.15633802816901402
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
