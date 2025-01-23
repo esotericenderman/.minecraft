@@ -149,6 +149,9 @@ key_key.craftingtweaks.decompress_stack:key.keyboard.unknown
 key_key.craftingtweaks.decompress_all:key.keyboard.unknown
 key_key.craftingtweaks.refill_last_stack:key.keyboard.unknown
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
+key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.unknown
+key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
+key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.unknown
