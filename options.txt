@@ -55,7 +55,7 @@ lang:en_gb
 chatVisibility:0
 chatOpacity:0.4515845070422535
 chatLineSpacing:0.0
-textBackgroundOpacity:0.0
+textBackgroundOpacity:0.018309859154929737
 backgroundForChatOnly:false
 hideServerAddress:false
 advancedItemTooltips:true
