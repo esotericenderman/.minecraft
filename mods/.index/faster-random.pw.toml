@@ -1,7 +1,7 @@
 filename = 'fasterrandom-5.1.0.jar'
 name = 'Faster Random'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.19',
     '1.19.1',

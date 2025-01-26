@@ -1,0 +1,16 @@
+filename = 'autohud-8.2+1.21.1-fabric.jar'
+name = 'Auto HUD'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd5bd6517490628b25e9fb06cc775109a01977cf54e409c87ed2e59d5c03c1b25f534316403b684a00b4d992b4e4a4fce1c28c68248a889059b7d2b82d6eb7d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/temczoTQ/versions/SXOghT24/autohud-8.2%2B1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'temczoTQ'
+version = 'SXOghT24'

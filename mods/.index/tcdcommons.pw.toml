@@ -1,7 +1,7 @@
 filename = 'tcdcommons-3.12.5+fabric-1.21.jar'
 name = 'TCDCommons API'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 

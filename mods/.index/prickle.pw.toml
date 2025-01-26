@@ -1,7 +1,7 @@
 filename = 'prickle-fabric-1.21.1-21.1.6.jar'
 name = 'Prickle'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 

@@ -1,7 +1,7 @@
 filename = 'no-telemetry-1.8.0.jar'
 name = 'No Telemetry'
 side = 'client'
-x-prismlauncher-loaders = [ 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.18',
     '1.18-pre1',

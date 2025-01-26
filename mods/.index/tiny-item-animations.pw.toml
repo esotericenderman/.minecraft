@@ -1,7 +1,7 @@
 filename = 'tia-fabric-1.21-1.2.1.jar'
 name = 'Tiny Item Animations'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 

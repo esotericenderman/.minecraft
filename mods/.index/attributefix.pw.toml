@@ -1,7 +1,7 @@
 filename = 'attributefix-fabric-1.21.1-21.1.2.jar'
 name = 'AttributeFix'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 

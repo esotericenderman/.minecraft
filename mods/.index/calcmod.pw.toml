@@ -1,7 +1,7 @@
 filename = 'calcmod-1.3.2+fabric.1.21.jar'
 name = 'CalcMod'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2' ]
 x-prismlauncher-release-type = 'release'
 
